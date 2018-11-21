@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../LEMP-docker/.idea/LEMP-docker.iml" filepath="$PROJECT_DIR$/../LEMP-docker/.idea/LEMP-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LEMP-docker.iml" filepath="$PROJECT_DIR$/.idea/LEMP-docker.iml" />
     </modules>
   </component>
 </project>
